@@ -1,0 +1,19 @@
+p {
+    background-color: #f2adb9;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#secondID {
+    color: #0707dd;
+    font-size: 36px;
+}
+
+.third-element {
+    font-size: 24px;
+}
+
+#fourthID {
+    background-color: #94f009;
+    font-size: 24px;
+    font-weight: bold;
+}
